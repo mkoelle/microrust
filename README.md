@@ -6,6 +6,10 @@
 
 This project is set up with a dev container configured for rust and the esp32 chipset in vscode.
 
+## TODO
+
+- [ssh agent forwarding](https://code.visualstudio.com/remote/advancedcontainers/sharing-git-credentials#_using-ssh-keys)
+
 ## References and Resources
 
 Cargo and Rust
